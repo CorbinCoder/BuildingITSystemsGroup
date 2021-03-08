@@ -1,0 +1,85 @@
+WHAT
+
+  - Project Name: Name of project we are building.
+
+  - Project Description:
+    1: Contain enough details so that it can be understood by anyone with
+       reasonable technical ability.
+    2: Identify project stream.
+    3: Describe the functionality of the project.
+
+    - The team: For each person state:
+      - Full Name.
+      - Email Address.
+      - Personal background and IT passion.
+      - Your strengths and current interests.
+      - Personal challenges in the context of the project.
+      - What you see yourself contributing to the team.
+
+    - Demonstrable Outcomes:
+      - Minimum Viable Features (MVF's):
+        - List 5 features. For each feature, explain how it will be validated.
+      - Extended Viable Features (EVF's):
+        - List at least 3. Implement if time permits. Explain how it will be
+          validated.
+
+    - Project Motivation:
+      - Motivation to choose this project.
+      - How does it relate to individual and collective interests.
+
+    - Project Justification:
+      1. Justified Workload: 5hrs/week * 8 weeks * 6 members = 240hrs.
+         Approximate hours for various tasks.
+      2. Beyond Current Capabilities: Explain how this project will increase
+         current abilities.
+      3. Project Risks: Identify project risks. List three project risks that
+         could interfere with project outcomes as well as three team dynamics
+         challenges. For each, identify how you will monitor and minimize it
+         arising.
+
+HOW
+
+  - Resources and Tools: List the tools and resources to be used in the
+    project. Each should contain:
+    - Tool/resource name.
+    - Short description.
+    - Rationale.
+    - Specific version, and cost.
+    - Alternatives not used.
+
+  - Collaborative Workspaces: Describe the tools you will use to collaborate.
+    Does everyone in the team know where to find them? For each list the
+    following:
+    - URL.
+    - How to access it.
+
+  - Communication Expectations: Constitutes an agreement between each team
+    member. In particular:
+    - List the tools you will use to communicate.
+    - Describe the expected frequency of responses.
+    - Describe how you will use the tools in the context of weekly workflow.
+    - Include an action plan if a team member does not respond to communication
+      or doesn't attend meetings.
+
+  - Decision Making: Describe the following:
+    - Decision making process.
+    - Dispute resolution process.
+
+WHEN
+
+List tasks between week 3 and 12 with enough detail so assessor can see what
+each member is expected to demonstrate each week. Tasks should contain
+the following:
+
+  - Descriptive title linked to corresponding Trello card.
+  - Planned start and end date.
+  - Lead by (members name).
+
+  Linked Trello card should include:
+
+  - Descriptive title.
+  - Planned start and due date.
+  - Estimated time to complete task.
+  - Precise description of the task.
+  - Description of artefact task will produce.
+  - Who is responsible for task.
